@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "title": "Learn JavaScript",
+    "price": 109.95,
+    "description": "You interact with JavaScript code all the time — you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you’ll learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics.",
+    "image": "https://lh3.googleusercontent.com/-VwoEhyt43Vo/YIgN8O5ICuI/AAAAAAAAnTU/RXYtAVRHlYIEkQiqp_YO2hl9FzmZmDa3QCLcBGAsYHQ/w454-h227/image.png"
+  },
+  {
+    "id": 2,
+    "title": "Learn Python",
+    "price": 120.99,
+    "description": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization.Python is a general-purpose, versatile, and powerful programming language. It’s a great first language because Python code is concise and easy to read. Whatever you want to do, python can do it. From web development to machine learning to data science, Python is the language for you..",
+
+    "image": "https://cdn.mindmajix.com/courses/python-training.png"
+  },
+  {
+    "id": 3,
+    "title": "Learn PHP",
+    "price": 120.99,
+    "description": "PHP is used extensively to code many websites. Popularity of PHP provides many opportunities for people with a working knowledge of PHP. It is also a terrific skill to integrate into your toolset if you are building your own website. Join millions that learn PHP on Udemy from knowledgeable instructors and grow your web building skillset.PHP is a widely used server-side scripting language that has become increasingly fast and powerful through the years. You can also use it on the front-end since PHP can be embedded right into HTML. These features make learning PHP a great option for any web developer. In this course, you’ll work through PHP fundamental programming concepts and gain the skills necessary to develop programs in PHP.",
+
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6STBg0ryXq5gOoV-uYAMpVKjnMHvXPYjQJOen9xtgnF4u6nykah9DiqjShvjiBWKhLHA&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "title": "Learn Go",
+    "price": 115.99,
+    "description": "Go (or Golang) is an open source programming language designed to build fast, reliable, and efficient software at scale.Google uses Go specifically for its large networks of servers, and Go also powers much of Google’s own cloud platform. Developers use Go in application development, web development, in operations and infrastructure teams, and much more. It is the language of Cloud Native infrastructure and software development.As Go’s popularity and adoption continue to increase, we’ll see even greater usage and more creative implementations of the language!",
+
+    "image": "https://www.softwebsolutions.com/wp-content/uploads/2020/10/golang-Programing.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Learn Swift",
+    "price": 116.95,
+    "description": "Swift is a modern programming language developed by Apple. This general-purpose programming language is fast and powerful without sacrificing safety or readability. Swift is a great language to learn for those interested in iOS and MacOS development as well as anyone who is just starting to code.Welcome to the Complete iOS App Development Bootcamp. With over 39,000 5 star ratings and a 4.8 average my iOS course is the HIGHEST RATED iOS Course in the history of Udemy!At 55+ hours, this iOS 13 course is the most comprehensive iOS development course online!This Swift 5.1 course is based on our in-person app development bootcamp in London, where we've perfected the curriculum over 4 years of in-person teaching.Our complete app development bootcamp teaches you how to code using Swift 5.1 and build beautiful iOS 13 apps for iPhone and iPad. Even if you have ZERO programming experience.I'll take you step-by-step through engaging and fun video tutorials and teach you everything you need to know to succeed as an iOS app developer.",
+
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VYCjowh5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/x5f9k3lkw7qv5feobv50.png"
+  },
+  {
+    "id": 6,
+    "title": "Learn Typescript",
+    "price": 119.95,
+    "description": "JavaScript is a powerful programming language. But as it continues to evolve, outdated code gets messy and difficult to maintain. That’s where TypeScript comes in. It builds on your JavaScript foundation so you can develop higher-quality, less error-prone code faster. As a TypeScript developer, you’ll be in higher demand and gain a competitive edge in the work world.You will learn how to apply the JavaScript syntax you already know to TypeScript’s type system. This will help you build your own programming experience and give your code more structure. You’ll also use TypeScript’s linter to reduce compilation errors and speed up workflow.",
+
+    "image": "https://www.educative.io/cdn-cgi/image/f=auto,fit=cover,w=600/v2api/collection/5892809498296320/4716987643068416/image/6283738422968320"
+  }
+]
